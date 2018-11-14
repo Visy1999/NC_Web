@@ -2,5 +2,4 @@
 
 Главное меню 
 
-![Screenshot]https://user-images.githubusercontent.com/44875402/48509879-588f6900-e863-11e8-9684-4b05cd557039.png
-
+![1](https://user-images.githubusercontent.com/44875402/48510128-fedb6e80-e863-11e8-90a6-eb216fad76d2.png)
