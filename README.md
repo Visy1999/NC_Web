@@ -27,6 +27,7 @@
 
 Всё тоже самое с банками, если мы захотим удалить первый банк, то не сможем, т.к он есть у пользователей
 
+![9](https://user-images.githubusercontent.com/44875402/48510407-e586f200-e864-11e8-998f-a70c1d4f696c.png)
 
 ![10](https://user-images.githubusercontent.com/44875402/48510539-31399b80-e865-11e8-8fa1-3dc7a9080917.png)
 
@@ -45,4 +46,4 @@
 
 
 
-![9](https://user-images.githubusercontent.com/44875402/48510407-e586f200-e864-11e8-998f-a70c1d4f696c.png)
+
