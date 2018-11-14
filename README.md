@@ -2,5 +2,5 @@
 
 Главное меню 
 
-![Screenshot] file:///D:/1/1.png
+![Screenshot]file:///D:/1/1.png
 
